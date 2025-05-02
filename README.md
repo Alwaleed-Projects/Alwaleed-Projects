@@ -6,7 +6,7 @@ I'm an Electrical Engineering graduate passionate about renewable energy, contro
 
 ## 🚀 Featured Projects
 
-- [Graduation Project – Fuzzy Logic Controller Optimization](https://github.com/Alwaleed-Projects/Graduation-Project-Fuzzy-Controller/tree/main)
+- [Optimization and Application of Fuzzy Logic Controllers in HOMER Software](https://github.com/Alwaleed-Projects/Graduation-Project-Fuzzy-Controller/tree/main)
 
 
 Feel free to explore my repositories below!
