@@ -8,7 +8,11 @@ Here, I share my academic and personal projects involving system modeling, simul
 
 - 🎓 **Graduation Project – Fuzzy Logic Controller Optimization**  
   Designed and optimized a fuzzy logic controller using PSO and GA for hybrid energy systems.  
-  🔗 [View Repository](https://github.com/Alwaleed-Projects/Graduation-Project-Fuzzy-Controller)
+  🔗 [View Project](https://github.com/Alwaleed-Projects/Graduation-Project-Fuzzy-Controller)
+
+-  🏠 **Tiny House Design – AutoCAD Practice Project**  
+  A compact house layout drawn in AutoCAD with 2D and isometric views.  
+  🔗 [View Project](https://github.com/Alwaleed-Projects/Tiny-House-Design)
 
 
 ## 📬 Contact
