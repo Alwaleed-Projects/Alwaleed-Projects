@@ -1,7 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-I'm Alwaleed Abdullah Alzahrani, a recent Electrical Engineering graduate with a strong passion for applying engineering principles to real-world challenges.
-Here, I share my academic and personal projects involving system modeling, simulation, and optimization.
+I'm Alwaleed Abdullah Alzahrani, a recent Electrical Engineering graduate passionate about applying engineering principles to solve real-world problems.
 
 ## 🚀 Featured Projects
 
