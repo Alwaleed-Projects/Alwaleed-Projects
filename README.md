@@ -14,6 +14,10 @@ Here, I share my academic and personal projects involving system modeling, simul
   A compact house layout drawn in AutoCAD with 2D and isometric views.  
   🔗 [View Project](https://github.com/Alwaleed-Projects/Tiny-House-Design)
 
+- 🚰 **Water Tank Monitoring & Control System (PLC + HMI)**  
+  A complete simulation using RSLogix and FactoryTalk ME with alarms, manual/auto control, and HMI animation.  
+  🔗 [View Project](https://github.com/Alwaleed-Projects/Water-Tank-Control-Project)
+
 
 ## 📬 Contact
 
